@@ -110,15 +110,15 @@ Print sebelum data ditambahkan
 
 Insert Data buku
 
-![](Python/Dokumentasi/insertBuku.jpg)
+![](Python/Dokumentasi/tambahDataBuku.jpg)
 
 insert data alat tulis
 
-![](Python/Dokumentasi/insertAlatTulis.jpg)
+![](Python/Dokumentasi/tambahDataAlatTulis.jpg)
 
 print data setelah ditambahkan
 
-![](Python/Dokumentasi/tampilan.jpg)
+![](Python/Dokumentasi/showData.jpg)
 
 
 
