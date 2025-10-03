@@ -4,6 +4,7 @@
 Saya **Putri Ramadhani** dengan NIM **2410975** mengerjakan TP3 dalam mata kuliah **Desain dan Pemrograman Berbasis Objek**, dengan ini saya menyatakan tidak melakukan kecurangan seperti yang telah dispesifikasikan. *Aamiin* 
 
 ## Desain Diagram Program
+![](tepe3.drawio.png)
 
 
 
