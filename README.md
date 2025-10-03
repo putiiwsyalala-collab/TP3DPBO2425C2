@@ -83,7 +83,7 @@ Data ditampilkan menggunakan **Tabulate** (khusus Python).
 ## Bukti:
 C++:
 Print Data sebelum ditambahkan
-![](Dokumentasi/sebelumDitambah.jpg)
+![](C++/Dokumentasi/sebelumDitambah.jpg)
 
 tambah data buku
 ![](Dokumentasi/tambahBuku.jpg)
