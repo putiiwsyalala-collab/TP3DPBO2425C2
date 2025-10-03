@@ -83,33 +83,42 @@ Data ditampilkan menggunakan **Tabulate** (khusus Python).
 ## Bukti:
 C++:
 Print Data sebelum ditambahkan
+
 ![](C++/Dokumentasi/sebelumDitambah.jpg)
 
 tambah data buku
-![](Dokumentasi/tambahBuku.jpg)
-![](Dokumentasi/TambahBuku(2).jpg)
+
+![](C++/Dokumentasi/tambahBuku.jpg)
+![](C++/Dokumentasi/TambahBuku(2).jpg)
 
 tambah data alat tulis
-![](Dokumentasi/tambahAlatTulis.jpg)
-![](Dokumentasi/tambahAlatTulis2.jpg)
+
+![](C++/Dokumentasi/tambahAlatTulis.jpg)
+![](C++/Dokumentasi/tambahAlatTulis2.jpg)
 
 Print Data setelah ditambahkan
-![](Dokumentasi/tampilanInsertBuku.jpg)
-![](Dokumentasi/showData.jpg)
+
+![](C++/Dokumentasi/tampilanInsertBuku.jpg)
+![](C++/Dokumentasi/showData.jpg)
 
 
 Python:
+
 Print sebelum data ditambahkan
-![](Dokumentasi/dataSebelumTambah.jpg)
+
+![](Python/Dokumentasi/dataSebelumTambah.jpg)
 
 Insert Data buku
-![](Dokumentasi/insertBuku.jpg)
+
+![](Python/Dokumentasi/insertBuku.jpg)
 
 insert data alat tulis
-![](Dokumentasi/insertAlatTulis.jpg)
+
+![](Python/Dokumentasi/insertAlatTulis.jpg)
 
 print data setelah ditambahkan
-![](Dokumentasi/tampilan.jpg)
+
+![](Python/Dokumentasi/tampilan.jpg)
 
 
 
