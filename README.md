@@ -80,6 +80,45 @@ class Buku dan alatTulis memiliki hubungan composeite dengan class tokoBuku yang
 Data ditampilkan menggunakan **Tabulate** (khusus Python).  
 
 
+## Bukti:
+C++:
+Print Data sebelum ditambahkan
+![](Dokumentasi/sebelumDitambah.jpg)
+
+tambah data buku
+![](Dokumentasi/tambahBuku.jpg)
+![](Dokumentasi/TambahBuku(2).jpg)
+
+tambah data alat tulis
+![](Dokumentasi/tambahAlatTulis.jpg)
+![](Dokumentasi/tambahAlatTulis2.jpg)
+
+Print Data setelah ditambahkan
+![](Dokumentasi/tampilanInsertBuku.jpg)
+![](Dokumentasi/showData.jpg)
+
+
+Python:
+Print sebelum data ditambahkan
+![](Dokumentasi/dataSebelumTambah.jpg)
+
+Insert Data buku
+![](Dokumentasi/insertBuku.jpg)
+
+insert data alat tulis
+![](Dokumentasi/insertAlatTulis.jpg)
+
+print data setelah ditambahkan
+![](Dokumentasi/tampilan.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
